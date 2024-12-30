@@ -7,7 +7,7 @@ export default function Home() {
   return (
     <div>
       <Heading title="BURGER" />
-      <Blog />
+      <Blog title="this is my blog" />
       <div>
         <Button Data="apply" />
       </div>
