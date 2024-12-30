@@ -6,7 +6,7 @@ import Button from "./component/button/Button";
 export default function Home() {
   return (
     <div>
-      <Heading />
+      <Heading title="BURGER" />
       <Blog />
       <div>
         <Button Data="apply" />

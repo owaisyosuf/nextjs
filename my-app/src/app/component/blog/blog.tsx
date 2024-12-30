@@ -11,6 +11,7 @@ export default function Blog() {
         voluptatem maxime doloribus totam.
         <div className="mt-6 flex gap-4">
           <Tag />
+          <Button Data="add" />
         </div>
       </h1>
     </div>
