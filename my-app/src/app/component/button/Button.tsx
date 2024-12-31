@@ -1,4 +1,4 @@
-import { ButtonType } from "@/types/button";
+import { ButtonType } from "@/types/componentTypes";
 
 export default function Button(props: ButtonType) {
   return (

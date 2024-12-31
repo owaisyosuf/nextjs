@@ -1,4 +1,4 @@
-import { HeadingType } from "@/types/Heading";
+import { HeadingType } from "@/types/componentTypes";
 
 export default function Heading(props: HeadingType) {
   return (
